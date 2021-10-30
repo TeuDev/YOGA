@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+}
+a {
+    text-decoration: none;
+}
+.Symbols {
+    margin: 195px auto 122px auto;
+    display: block;
+}
+
+input {
+    width: 321px;
+    height: 46px;
+    background-color: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: none;
+    margin: 0 auto;
+   display: block;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    padding: 19px;
+    color: #969696;
+}
+
+.input-password {
+    margin-top: 21px;
+}
+
+.forgot-password {
+    display: block;
+    margin: 35px 59px 38px ;
+    text-align: right;
+    color: #000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+}
+
+button{
+    display: block;
+    margin-bottom: 21px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    
+}
+button:active {
+    opacity: 0.6;
+}
+
+.signup {
+    display: block;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+    margin-bottom: 62px;
+    
+}
+ stroung {
+     color:#323232;
+ }
+
+.or {
+    font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #000000;
+display: block;
+}
+
+.container-2{
+    display: block;
+    margin-top: 18px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.img-LINK-points {
+    margin: 0 16px;
+}
